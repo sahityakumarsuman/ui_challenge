@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UiChallenge</string>
+    <string name="current_challenge">Current Challenge</string>
+    <string name="reward">(Reward : 300 Coins)</string>
+    <string name="runner">Runner</string>
+    <string name="win_coin">Win 500 Coins</string>
+    <string name="collect_10_coin">Collect 10 coins from claim bonus</string>
+    <string name="win_5_percent">Win at least 5 matches</string>
+    <string name="answer_10_question">Answer 10 question correctly</string>
+</resources>
